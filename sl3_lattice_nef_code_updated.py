@@ -192,18 +192,18 @@ print(f"Minimal value of degree: {min_val}")
 # print("Table of the degree for all cases considered:")
 # print(result)
 
-# # COMPUTATION FOR CASE1
-# result, count,min_val = CASE1(k)
-# # Display the result
-# print(f"Number of valid tuples satisfying CASE1: {count}")
-# print(f"Minimal value of degree: {min_val}")
-# # COMPUTATION FOR CASE2
-# result, count,min_val = CASE2(k)
-# # Display the result
-# print(f"Number of valid tuples satisfying CASE2: {count}")
-# print(f"Minimal value of degree: {min_val}")
-# # COMPUTATION FOR CASE3
-# result, count,min_val = CASE3(k)
-# # Display the result
-# print(f"Number of valid tuples satisfying CASE3: {count}")
-# print(f"Minimal value of degree: {min_val}")
+# COMPUTATION FOR CASE1
+result, count,min_val = CASE1(k)
+# Display the result
+print(f"Number of valid tuples satisfying CASE1: {count}")
+print(f"Minimal value of degree: {min_val}")
+# COMPUTATION FOR CASE2
+result, count,min_val = CASE2(k)
+# Display the result
+print(f"Number of valid tuples satisfying CASE2: {count}")
+print(f"Minimal value of degree: {min_val}")
+# COMPUTATION FOR CASE3
+result, count,min_val = CASE3(k)
+# Display the result
+print(f"Number of valid tuples satisfying CASE3: {count}")
+print(f"Minimal value of degree: {min_val}")
