@@ -191,7 +191,6 @@ print(f"Number of valid tuples satisfying CASE0: {count}")
 print(f"Minimal value of degree: {min_val}")
 # print("Table of the degree for all cases considered:")
 # print(result)
-
 # COMPUTATION FOR CASE1
 result, count,min_val = CASE1(k)
 # Display the result
